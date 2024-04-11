@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @huyntuan0910
-- 👀 I’m interested in Sport
-- 🌱 I’m currently learning Hutech University
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+👋 Hi, Im Huỳnh Anh Tuấn!
+
+🌱 I’m currently learning Hutech University
+📅 Ngày sinh: 09/10/2003
+
+🏡 Place of birth: Đắk Lắk, Việt Nam
+
+🎾 Hobbies:
+Football ⚽️
+Listening to music 🎧
+Cafe ☕️
+
+📫 How to reach me:
+Email: huyntuan0910@example.com
+GitHub: @huyntuan0910
+
+⚡ Fun fact: I enjoy participating in cultural and social activities and always want to connect and interact with new people.
 
 <!---
 huyntuan0910/huyntuan0910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
