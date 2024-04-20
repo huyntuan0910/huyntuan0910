@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning Hutech University
 
-📅 Ngày sinh: 09/10/2003
+📅 Date of birth: 09/10/2003
 
 🏡 Place of birth: Đắk Lắk, Việt Nam
 
