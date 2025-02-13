@@ -27,15 +27,15 @@ Xin chào! Mình là **Huỳnh Anh Tuấn**, một sinh viên đam mê công ngh
 
 ## 📝 Dự án nổi bật
 
-- **FloneStore**:  
-  _Dự án e-commerce xây dựng với ReactJS, Spring Boot và MySQL._
-  - **Chức năng**: Quản lý sản phẩm, thanh toán, và phân quyền người dùng.
-  - **Vai trò**: Phát triển giao diện người dùng và tích hợp hệ thống API.
+- **EASY ORDER MANAGEMENT**:  
+  _Dự án e-commerce xây dựng với Angular, .Net, Firebase, SignalR, AWS SendMail và SQLServer._
+  - **Chức năng chính trong dự án**: Đặt hàng bằng mã QR, chỉ cho phép một người dùng đặt hàng, theo dõi quá trình đặt hàng với SignalR và hệ thống gửi mail báo cáo doanh thu định kỳ.
+  - **Vai trò**: FullStack.
 
-- **Ứng dụng quản lý phòng trọ**  
-  _Ứng dụng web để quản lý đặt phòng và cho thuê phòng trực tuyến._
-  - **Công nghệ**: NodeJS, ReactJS, MongoDB.
-  - **Mô tả**: Cho phép người dùng đăng ký phòng, tìm kiếm theo vị trí và kiểm tra tình trạng phòng trống.
+- **Create Tournament**  
+  _Hệ thống quản lý giải đấu xây dựng với Angular 16.0, .Net và SQLServer._
+  - **Chức năng chính trong dự án**: Tạo giải đấu, quản lý giải đấu, cập nhật tỉ số trận đấu.
+  - **Vai trò**: BackEnd.
 
 ---
 
